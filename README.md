@@ -1,12 +1,12 @@
 # Tutorial_RCade  
 
-Este tutorial serve para ensinar a usar o pacote `RCade`.  
+Este tutorial serve para ensinar a usar o pacote `RCade`    
 Esse pacote permite rodar jogos em HTML dentro do RStudio.
 
 Instalação
 ----------  
 
-Esse pacote não está disponível no CRAN e segundo o autor nunca estará.
+Esse pacote não está disponível no CRAN e segundo o autor nunca estará.  
 Para usá-lo, é necessário baixar direto do github:
 
 ```r
@@ -27,7 +27,7 @@ Rcade::games
 Jogar algo
 ----------
 
-Ao rodar alguma coisa pela primeira vez, você precisará instalar o jogo. O processo é bem rápido.
+Ao rodar alguma coisa pela primeira vez, você precisará instalar o jogo. O processo é bem rápido.  
 
 >Usando o código `Rcade::games` podemos ver os jogos instalados.
 
@@ -49,11 +49,11 @@ Rcade::games$`Mariohtml5`
 
 ### Adicionar novo jogo
 
-O Rcade já vem com vários jogos, mas também existem vários outros disponíveis no github.
+O Rcade já vem com vários jogos, mas também existem vários outros disponíveis no github.  
 
-Como exemplo, o autor desse pacote usou esse repositório: https://github.com/Zolmeister/pond
+Como exemplo, o autor desse pacote usou esse repositório: https://github.com/Zolmeister/pond  
 
-Para adicionar esse jogo, este é o código:
+Para adicionar esse jogo, este é o código:  
 
 ``` r
 Pond <- Rcade:::HTML5Game$new(name = "pond", 
