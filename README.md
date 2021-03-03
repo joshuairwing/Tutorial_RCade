@@ -1,6 +1,6 @@
 # Tutorial_RCade  
 
-Este tutorial serve para ensinar a usar o pacote `RCade`
+Este tutorial serve para ensinar a usar o pacote `RCade`.  
 Esse pacote permite rodar jogos em HTML dentro do RStudio.
 
 Instalação
