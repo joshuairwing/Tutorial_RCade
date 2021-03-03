@@ -1,2 +1,3 @@
 # Tutorial_RCade
-Tutorial (readme) ensinando como usar o RCade
+## Este readme te ensinará a usar o pacote 'RCade'.
+
