@@ -17,15 +17,13 @@ devtools::install_github('RLesur/Rcade')
 Utilização
 ---------
 
-Ver jogos disponíveis
----------------------
+### Ver jogos disponíveis
 
 ```r
 Rcade::games
 ```
 
-Jogar algo
-----------
+### Jogar algo
 
 Ao rodar alguma coisa pela primeira vez, você precisará instalar o jogo. O processo é bem rápido.  
 
@@ -89,7 +87,7 @@ Caso tenha qualquer problema ao jogar algo, o autor recomenda tentar jogar com s
 Pond$play(TRUE)
 ```
 
-### Créditos
+## Créditos
 
 Este é um pacote de [RLesur](https://github.com/RLesur).  
 
