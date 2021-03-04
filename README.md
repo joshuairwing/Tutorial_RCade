@@ -91,4 +91,9 @@ Pond$play(TRUE)
 
 ### Créditos
 
-Este é um pacote de [RLesur](https://github.com/RLesur).
+Este é um pacote de [RLesur](https://github.com/RLesur).  
+
+Equipe do trabalho:  
+- Irwing Joshua
+- Lucas Henrique
+- Willian Santos
